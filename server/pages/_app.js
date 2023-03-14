@@ -289,7 +289,7 @@ const Layout = ({ children  })=>{
 /* harmony default export */ const Layouts_Layout = (Layout);
 
 ;// CONCATENATED MODULE: ./src/pages/_app.js
-
+/* eslint-disable react/prop-types */ /* eslint-disable react/react-in-jsx-scope */ 
 
 
 function App({ Component , pageProps  }) {
